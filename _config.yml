@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "hsgser's Homepage"
+title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dang Nguyen"
@@ -95,14 +95,14 @@ analytics:
 # Site Author
 author:
   name             : "Dang Nguyen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/dang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "AI Research Resident Intern at <a style='color: blue;' href='https://www.vinai.io/'>VinAI Research</a>"
   location         : "Hanoi, Vietnam"
-  email            : nguyentuanhaidang@gmail.com
+  email            : 
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://hsgser.github.io/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:nguyentuanhaidang@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tsttest01/"
