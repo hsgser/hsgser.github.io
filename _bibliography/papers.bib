@@ -1,0 +1,66 @@
+---
+---
+
+@article{nguyen2023selfattention,
+abbr = {Preprint},
+  title={Self-Attention Amortized Distributional Projection Optimization for Sliced Wasserstein Point-Cloud Reconstruction},
+  author={Khai Nguyen* and Dang Nguyen* and Nhat Ho},
+  journal={arXiv preprint arXiv:2301.04791},
+  year={2023},
+  selected = {false},
+  pdf={https://arxiv.org/pdf/2301.04791.pdf},
+  abstract={Max sliced Wasserstein (Max-SW) distance has been widely known as a solution for redundant projections of sliced Wasserstein (SW) distance. In applications that have various independent pairs of probability measures, amortized projection optimization is utilized to predict the ``max" projecting directions given two input measures instead of using projected gradient ascent multiple times. Despite being efficient, the first issue of the current framework is the violation of permutation invariance property and symmetry property. To address the issue, we propose to design amortized models based on self-attention architecture. Moreover, we adopt efficient self-attention architectures to make the computation linear in the number of supports. Secondly, Max-SW and its amortized version cannot guarantee metricity property due to the sub-optimality of the projected gradient ascent and the amortization gap. Therefore, we propose to replace Max-SW with distributional sliced Wasserstein distance with von Mises-Fisher (vMF) projecting distribution (v-DSW). Since v-DSW is a metric with any non-degenerate vMF distribution, its amortized version can guarantee the metricity when predicting the best discriminate projecting distribution. With the two improvements, we derive self-attention amortized distributional projection optimization and show its appealing performance in point-cloud reconstruction and its downstream applications.}
+}
+
+@article{nguyen2021model,
+abbr = {ICASSP},
+  title={On Cross-Layer Alignment for Model Fusion of Heterogeneous Neural Networks},
+  author={Dang Nguyen and Trang Nguyen and Khai Nguyen and Dinh Phung and Hung Bui and Nhat Ho},
+  journal={IEEE International Conference on Acoustics, Speech, and Signal Processing},
+  year={2023},
+  published={true},
+  selected={true},
+  pdf={https://arxiv.org/pdf/2110.15538.pdf},
+  code={https://github.com/hsgser/clafusion},
+  abstract={Layer-wise model fusion via optimal transport, named OTFusion, applies soft neuron association for unifying different pre-trained networks to save computational resources. While enjoying its success, OTFusion requires the input networks to have the same number of layers. To address this issue, we propose a novel model fusion framework, named CLAFusion, to fuse neural networks with a different number of layers, which we refer to as heterogeneous neural networks, via cross-layer alignment. The cross-layer alignment problem, which is an unbalanced assignment problem, can be solved efficiently using dynamic programming. Based on the cross-layer alignment, our framework balances the number of layers of neural networks before applying layer-wise model fusion. Our experiments indicate that CLAFusion, with an extra finetuning process, improves the accuracy of residual networks on the CIFAR10, CIFAR100, and Tiny-ImageNet datasets. Furthermore, we explore its practical usage for model compression and knowledge distillation when applying to the teacher-student setting.}
+}
+
+@InProceedings{pmlr-v162-nguyen22e,
+abbr = {ICML},
+  title = 	 {Improving Mini-batch Optimal Transport via Partial Transportation},
+  author =       {Khai Nguyen* and Dang Nguyen* and The-Anh Vu-Le and Tung Pham and Nhat Ho},
+  booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
+  pages = 	 {16656--16690},
+  year = 	 {2022},
+  editor = 	 {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  volume = 	 {162},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {17--23 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v162/nguyen22e/nguyen22e.pdf},
+  url = 	 {https://proceedings.mlr.press/v162/nguyen22e.html},
+  selected = {true},
+  published={true},
+  code={https://github.com/UT-Austin-Data-Science-Group/Mini-batch-OT},
+  abstract=  {Mini-batch optimal transport (m-OT) has been widely used recently to deal with the memory issue of OT in large-scale applications. Despite their practicality, m-OT suffers from misspecified mappings, namely, mappings that are optimal on the mini-batch level but are partially wrong in the comparison with the optimal transportation plan between the original measures. Motivated by the misspecified mappings issue, we propose a novel mini-batch method by using partial optimal transport (POT) between mini-batch empirical measures, which we refer to as mini-batch partial optimal transport (m-POT). Leveraging the insight from the partial transportation, we explain the source of misspecified mappings from the m-OT and motivate why limiting the amount of transported masses among mini-batches via POT can alleviate the incorrect mappings. Finally, we carry out extensive experiments on various applications such as deep domain adaptation, partial domain adaptation, deep generative model, color transfer, and gradient flow to demonstrate the favorable performance of m-POT compared to current mini-batch methods.}
+}
+
+@InProceedings{pmlr-v162-nguyen22d,
+abbr = {ICML},
+  title = 	 {On Transportation of Mini-batches: A Hierarchical Approach},
+  author =       {Khai Nguyen and Dang Nguyen and Quoc Nguyen and Tung Pham and Hung Bui and Dinh Phung and Trung Le and Nhat Ho},
+  booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
+  pages = 	 {16622--16655},
+  year = 	 {2022},
+  editor = 	 {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  volume = 	 {162},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {17--23 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v162/nguyen22d/nguyen22d.pdf},
+  url = 	 {https://proceedings.mlr.press/v162/nguyen22d.html},
+  selected = {true},
+  published={true},
+  code={https://github.com/UT-Austin-Data-Science-Group/Mini-batch-OT},
+  abstract = 	{Mini-batch optimal transport (m-OT) has been successfully used in practical applications that involve probability measures with a very high number of supports. The m-OT solves several smaller optimal transport problems and then returns the average of their costs and transportation plans. Despite its scalability advantage, the m-OT does not consider the relationship between mini-batches which leads to undesirable estimation. Moreover, the m-OT does not approximate a proper metric between probability measures since the identity property is not satisfied. To address these problems, we propose a novel mini-batch scheme for optimal transport, named Batch of Mini-batches Optimal Transport (BoMb-OT), that finds the optimal coupling between mini-batches and it can be seen as an approximation to a well-defined distance on the space of probability measures. Furthermore, we show that the m-OT is a limit of the entropic regularized version of the BoMb-OT when the regularized parameter goes to infinity. Finally, we carry out experiments on various applications including deep generative models, deep domain adaptation, approximate Bayesian computation, color transfer, and gradient flow to show that the BoMb-OT can be widely applied and performs well in various applications.}
+}
