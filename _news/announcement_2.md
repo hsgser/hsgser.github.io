@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: ICASSP 2023 results
 date: 2023-02-17 10:02:00+0700
 inline: true
 ---
