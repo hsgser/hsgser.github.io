@@ -11,6 +11,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. in Computer Science 
+      institution: University of California, Los Angeles
+      year: 2023 - Present
+      description:
+        - Advised by Professor Baharan Mirzasoleiman
+        - UCLA Graduate Dean's Scholar Award
     - title: B.S. in Information Networking for Innovation and Design
       institution: Toyo University, Tokyo, Japan
       year: 2017 - 2021
