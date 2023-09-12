@@ -34,6 +34,9 @@ a, table.table a {
 
 figure, img {
   max-width: 90vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 blockquote {
