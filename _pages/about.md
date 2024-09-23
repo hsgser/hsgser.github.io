@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: CS Ph.D. Student at UCLA
+# subtitle: CS Ph.D. Student at UCLA
 
 profile:
   align: right
@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Dang Nguyen is a first-year CS Ph.D. student at the University of California, Los Angeles, where he is advised by Professor <a href="https://baharanm.github.io/">Baharan Mirzasoleiman</a>. His researches are centered on developing efficient and robust machine-learning algorithms for large-scale datasets and architectures. Specifically, he is working on improving the training efficiency of large language models and enhancing their robustness. Additionally, he is interested in exploring Generative AI and Multimodal Learning, with a particular emphasis on improving data quality. Through his works, he aims to advance the capabilities of machine learning systems in handling complex and diverse data while ensuring their reliability and performance.
+Hi, I'm a CS Ph.D. student at UCLA under the supervision of Professor <a href="https://baharanm.github.io/">Baharan Mirzasoleiman</a>. My researches are centered on developing efficient and robust machine-learning algorithms for large-scale datasets and architectures. Specifically, I'm working on improving the training efficiency of large language models and enhancing their robustness. Additionally, I'm interested in exploring Generative AI and Multimodal Learning, with a particular emphasis on improving data quality.
 
-Before joining UCLA, he was an AI Resident at <a href="https://www.vinai.io/">VinAI</a>, a leading AI research-based company in Vietnam. Prior to that, he received his BS degree, summa cum laude, in <a href="https://www.toyo.ac.jp/en/academics/faculty/iniad/">Information Networking for Innovation and Design</a> from Toyo University. Going further back in time, he was a graduate of <a href="https://en.wikipedia.org/wiki/High_School_for_Gifted_Students,_Hanoi_University_of_Science">High School for Gifted Students (Hanoi University of Science)</a> and a Maths Olympian (silver medal, IMO 2015).
+Before joining UCLA, I was an AI Resident at <a href="https://www.vinai.io/">VinAI</a>. Prior to that, I received my BS degree, summa cum laude, from Toyo University. Going further back in time, I was a graduate of High School for Gifted Students (Hanoi University of Science) and a Maths Olympian (silver medal, IMO 2015).

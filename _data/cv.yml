@@ -18,16 +18,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Student Researcher
+      institution: Google Research, CA, USA
+      year: 2024
     - title: PhD Research Intern
       institution: Cisco Systems, CA, USA
       year: 2024
-      # description:
-      #   - Worked with Dr. Ali Payani on LLMs hallucination detection and mitigation.
+      description:
+        - Worked with Dr. Ali Payani on LLMs Hallucination.
     - title: AI Research Resident
       institution: VinAI, Hanoi, Vietnam
       year: 2020 - 2023
       description:
-        - Collaborated with Prof. Nhat Ho (Department of Statistics and Data Sciences, University of Texas at Austin) and AI residents on multiple research projects about Optimal Transport and Model Fusion.
+        - Worked with Prof. Nhat Ho on Optimal Transport and Model Fusion (Model Merging).
         - Participated in an applied project which aims to improve the performance of object detectors in low‑light conditions.
         - Managed GPU resources for the VinAI Residency Program.
     - title: Part‑time Machine Learning Engineer
@@ -56,4 +59,4 @@
 - title: Professional Services
   type: list
   contents:
-    - <u>Conference Reviewer:</u> NeurIPS (2022-2024) (Top reviewer), AISTATS (2023-2024), ICML (2023-2024), ICLR (2024).
+    - <u>Conference Reviewer:</u> NeurIPS (2022-2024) (Top reviewer), AISTATS (2023-2025), ICML (2023-2024), ICLR (2024-2025), AAAI (2025).
