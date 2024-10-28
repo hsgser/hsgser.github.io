@@ -20,6 +20,8 @@
   contents:
     - title: Student Researcher
       institution: Google Research, CA, USA
+      description:
+        - Working on synthetic data generation for LLMs.
       year: 2024
     - title: PhD Research Intern
       institution: Cisco Systems, CA, USA
@@ -30,14 +32,12 @@
       institution: VinAI, Hanoi, Vietnam
       year: 2020 - 2023
       description:
-        - Worked with Prof. Nhat Ho on Optimal Transport and Model Fusion (Model Merging).
-        - Participated in an applied project which aims to improve the performance of object detectors in low‑light conditions.
-        - Managed GPU resources for the VinAI Residency Program.
-    - title: Part‑time Machine Learning Engineer
-      institution: FPT Japan Holdings, Yokohama, Japan
-      year: 2019 - 2020
-      description:
-        - Participated in a long‑term demand forecasting project for a chain pharmacy company in Japan.
+        - Worked with Prof. Nhat Ho on Optimal Transport and Model Merging.
+    # - title: Part‑time Machine Learning Engineer
+    #   institution: FPT Japan Holdings, Yokohama, Japan
+    #   year: 2019 - 2020
+    #   description:
+    #     - Participated in a long‑term demand forecasting project for a chain pharmacy company in Japan.
 
 - title: Honors and Awards
   type: time_table
@@ -50,13 +50,13 @@
         - Toyo Top Global Scholarship A
     - year: 2015
       items: 
-        - First Prize, Vietnam Mathematical Olympiad
         - Silver medal, 56th International Mathematical Olympiad
-    - year: 2014
-      items: 
-        - Second Prize, Vietnam Mathematical Olympiad
+        - First Prize, Vietnam Mathematical Olympiad
+    # - year: 2014
+    #   items: 
+    #     - Second Prize, Vietnam Mathematical Olympiad
 
 - title: Professional Services
   type: list
   contents:
-    - <u>Conference Reviewer:</u> NeurIPS (2022-2024) (Top reviewer), AISTATS (2023-2025), ICML (2023-2024), ICLR (2024-2025), AAAI (2025).
+    - Reviewer at NeurIPS (2022-2024) (Top reviewer), ICML (2023-2024), ICLR (2024-2025), AISTATS (2023-2025), AAAI (2025), AdvML@NeurIPS2024.
