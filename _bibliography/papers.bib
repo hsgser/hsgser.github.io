@@ -3,13 +3,13 @@
 
 @article{nguyen2024memory,
   bibtex_show={true},
-  abbr={arXiv},
+  abbr={ICLR},
   title={Mini-batch Coresets for Memory-efficient Training of Large Language Models},
   author={Nguyen, Dang and Yang, Wenhan and Anand, Rathul and Yang, Yu and Mirzasoleiman, Baharan},
-  abstract={Training with larger mini-batches improves the performance and convergence rate of training machine learning models. However, training with large mini-batches becomes prohibitive for Large Language Models (LLMs) with billions of parameters, due to the large GPU memory requirement. To address this problem, we propose finding small mini-batches that simulate the dynamics of training with larger mini-batches. Specifically, we formulate selecting smaller mini-batches of examples that closely capture gradients of large mini-batches as a submodular maximization problem. Nevertheless, the very large dimensionality of the gradients makes the problem very challenging to solve. To address this, we leverage ideas from zeroth-order optimization and neural network pruning to find lower-dimensional gradient estimates that allow finding high-quality subsets effectively with a limited amount of memory. We prove the superior convergence rate of training on the small mini-batches found by our method and empirically show its effectiveness. Our method can effectively reduce the memory requirement by 2x and speed up training by 1.3x, as we confirm for fine-tuning Phi-2 on MathInstruct. Our method can be easily stacked with LoRA and other memory-efficient methods to further reduce the memory requirements of training LLMs.},
-  journal={arXiv preprint arXiv:2407.19580},
+  abstract={Training with larger mini-batches improves the convergence rate and can yield superior performance. However, training with large mini-batches becomes prohibitive for Large Language Models (LLMs), due to the large GPU memory requirement. To address this problem, an effective approach is finding small minibatch coresets that closely match the gradient of larger mini-batches. However, this approach becomes infeasible and ineffective for LLMs, due to the highly imbalanced nature of the sources in language data, use of the Adam optimizer, and the very large gradient dimensionality of LLMs. In this work, we address the above challenges by proposing Coresets for Training LLMs (CoLM). First, we show that mini-batch coresets found by gradient matching do not contain representative examples of the small sources w.h.p., and thus including all examples of the small sources in the mini-batch coresets is crucial for optimal performance. Second, we normalize the gradients by their historical exponential to find minibatch coresets for training with Adam. Finally, we leverage zeroth-order methods to find smooth gradient of the last V -projection matrix and sparsify it to keep the dimensions with the largest normalized gradient magnitude. We apply CoLM to fine-tuning Phi-2, Phi-3, and Zephyr with LoRA on MathInstruct and SuperGLUE benchmark. Remarkably, CoLM reduces the memory requirement of fine-tuning by 2x and even outperforms training with 4x larger mini-batches. Notably, CoLM easily stack with existing memory-efficient training methods, such as LoRA.},
+  journal={International Conference on Learning Representations (ICLR)},
   pdf={https://arxiv.org/pdf/2407.19580},
-  year={2024}
+  year={2025}
 }
 
 @article{nguyen2024make,
