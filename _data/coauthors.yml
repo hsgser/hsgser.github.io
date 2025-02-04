@@ -1,4 +1,4 @@
-"Nguyen":
+"nguyen":
   - firstname: ["Khai", "K."]
     url: https://khainb.github.io/
   - firstname: ["Trang", "T."]
@@ -6,47 +6,59 @@
   - firstname: ["Quoc", "Q."]
     url: https://scholar.google.ca/citations?user=nGMSVVAAAAAJ&hl=en
 
-"Ho":
+"ho":
   - firstname: ["Nhat", "N."]
     url: https://nhatptnk8912.github.io/
 
-"Pham": 
+"pham": 
   - firstname: ["Tung", "T."]
     url: https://scholar.google.com.au/citations?user=KcUuEKsAAAAJ&hl=en
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"Phung":
+"phung":
   - firstname: ["Dinh", "D."]
     url: http://dinhphung.ml/
 
-"Bui":
+"bui":
   - firstname: ["Hung", "H."]
     url: https://sites.google.com/site/buihhung/
 
-"Le":
+"le":
   - firstname: ["Trung", "T."]
     url: https://scholar.google.ca/citations?user=gysdMxwAAAAJ&hl=en
 
-"Vu-Le":
+"vu-le":
   - firstname: ["The-Anh", "T. A."]
     url: https://github.com/vltanh
 
-"Xue":
+"xue":
   - firstname: ["Yihao", "Y."]
     url: https://sites.google.com/g.ucla.edu/yihao-xue/
 
-"Joshi":
+"joshi":
   - firstname: ["Siddharth", "Sid", "S."]
     url: https://sjoshi804.github.io/
   
-"Mirzasoleiman":
+"mirzasoleiman":
   - firstname: ["Baharan", "B."]
     url: https://baharanm.github.io/
 
-"Yang":
+"yang":
   - firstname: ["Yu", "Y."]
     url: https://sites.google.com/g.ucla.edu/yuyang/home
   - firstname: ["Wenhan", "Hanger", "W."]
     url: https://sites.google.com/g.ucla.edu/wenhan-yang/home
+
+"gan":
+  - firstname: ["Eric"]
+    url: https://www.linkedin.com/in/eric-gan-107889207/
+
+"haddad":
+  - firstname: ["Paymon"]
+    url: https://www.linkedin.com/in/paymonhaddad/
+
+"anand":
+  - firstname: ["Rathul"]
+    url: https://www.linkedin.com/in/rathul/
