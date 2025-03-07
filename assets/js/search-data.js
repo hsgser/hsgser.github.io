@@ -86,8 +86,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-changing-the-training-data-distribution-to-reduce-simplicity-bias-improves-in-distribution-generalization-is-accepted-to-neurips-2024",
           title: 'Our paper Changing the Training Data Distribution to Reduce Simplicity Bias Improves In-distribution...',
           description: "",
-          section: "News",},{id: "news-our-paper-mini-batch-coresets-for-memory-efficient-training-of-large-language-models-is-accepted-to-iclr-2025",
-          title: 'Our paper Mini-batch Coresets for Memory-efficient Training of Large Language Models is accepted...',
+          section: "News",},{id: "news-our-paper-mini-batch-coresets-for-memory-efficient-language-model-training-on-data-mixtures-is-accepted-to-iclr-2025",
+          title: 'Our paper Mini-batch Coresets for Memory-efficient Language Model Training on Data Mixtures is...',
           description: "",
           section: "News",},{
         id: 'social-email',
