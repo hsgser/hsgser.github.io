@@ -52,13 +52,29 @@
     url: https://sites.google.com/g.ucla.edu/wenhan-yang/home
 
 "gan":
-  - firstname: ["Eric"]
+  - firstname: ["Eric", "E."]
     url: https://www.linkedin.com/in/eric-gan-107889207/
 
 "haddad":
-  - firstname: ["Paymon"]
+  - firstname: ["Paymon", "P."]
     url: https://www.linkedin.com/in/paymonhaddad/
 
 "anand":
-  - firstname: ["Rathul"]
+  - firstname: ["Rathul", "R."]
     url: https://www.linkedin.com/in/rathul/
+
+"li":
+  - firstname: ["Zeman", "Z."]
+    url: https://sites.google.com/usc.edu/zemanli/
+
+"bateni":
+  - firstname: ["Mohammadhossein", "Mohammad", "M."]
+    url: https://mhbateni.com/academic/
+
+"mirrokni":
+  - firstname: ["Vahab", "V."]
+    url: https://people.csail.mit.edu/mirrokni/Welcome.html
+
+"razaviyayn":
+  - firstname: ["Meisam", "M."]
+    url: https://sites.usc.edu/razaviyayn/
