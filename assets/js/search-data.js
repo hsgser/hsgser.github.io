@@ -89,6 +89,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-mini-batch-coresets-for-memory-efficient-language-model-training-on-data-mixtures-is-accepted-to-iclr-2025",
           title: 'Our paper Mini-batch Coresets for Memory-efficient Language Model Training on Data Mixtures is...',
           description: "",
+          section: "News",},{id: "news-our-paper-synthetic-text-generation-for-training-large-language-models-via-gradient-matching-is-accepted-to-icml-2025",
+          title: 'Our paper Synthetic Text Generation for Training Large Language Models via Gradient Matching...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
