@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ICASSP 2023 awards
+title: ICASSP 2023 award
 date: 2023-06-04 14:10:00+0700
 inline: true
 ---

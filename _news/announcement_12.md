@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ICML 2025 results
+title: ICML 2025 result
 date: 2025-05-01 12:00:00-0700
 inline: true
 ---

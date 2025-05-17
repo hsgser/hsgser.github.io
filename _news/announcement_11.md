@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ICLR 2025 results
+title: ICLR 2025 result
 date: 2025-01-22 12:00:00-0700
 inline: true
 ---

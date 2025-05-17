@@ -17,3 +17,11 @@
 "arXiv":
   url: https://arxiv.org/
   color: "#484832"
+
+"ACL":
+  url: https://aclweb.org/anthology/
+  color: "#ff7f0e"
+
+"ACL Findings":
+  url: https://aclweb.org/anthology/
+  color: "#ff7f0e"

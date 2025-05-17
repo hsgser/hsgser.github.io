@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ICASSP 2023 results
+title: ICASSP 2023 result
 date: 2023-02-17 10:02:00+0700
 inline: true
 ---

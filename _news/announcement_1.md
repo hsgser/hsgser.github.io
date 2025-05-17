@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ICML 2022 results
+title: ICML 2022 result
 date: 2022-05-15 14:54:00+0700
 inline: true
 ---

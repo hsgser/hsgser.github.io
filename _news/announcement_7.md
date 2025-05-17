@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DMLR @ ICLR 2024 results
+title: DMLR @ ICLR 2024 result
 date: 2024-03-03 11:40:00-0700
 inline: true
 ---
