@@ -92,6 +92,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-synthetic-text-generation-for-training-large-language-models-via-gradient-matching-is-accepted-to-icml-2025",
           title: 'Our paper Synthetic Text Generation for Training Large Language Models via Gradient Matching...',
           description: "",
+          section: "News",},{id: "news-our-paper-a-black-box-approach-to-uncertainty-quantification-in-llms-overcoming-the-limits-of-semantic-entropy-is-accepted-to-acl-findings-2025",
+          title: 'Our paper A Black‑Box Approach to Uncertainty Quantification in LLMs: Overcoming the Limits...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
