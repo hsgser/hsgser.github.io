@@ -5,4 +5,4 @@ date: 2025-05-15 12:00:00-0700
 inline: true
 ---
 
-Our paper *A Black‑Box Approach to Uncertainty Quantification in LLMs: Overcoming the Limits of Semantic Entropy* is accepted to ACL Findings 2025.
+Our paper *Beyond Semantic Entropy: Boosting LLM Uncertainty Quantification with Pairwise Semantic Similarity* is accepted to ACL Findings 2025.
