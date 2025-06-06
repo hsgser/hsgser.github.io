@@ -66,6 +66,8 @@
 "li":
   - firstname: ["Zeman", "Z."]
     url: https://sites.google.com/usc.edu/zemanli/
+  - firstname: ["Jiping", "J."]
+    url: https://scholar.google.com/citations?user=ZuQtBBcAAAAJ
 
 "bateni":
   - firstname: ["Mohammadhossein", "Mohammad", "M."]
@@ -82,3 +84,7 @@
 "payani":
   - firstname: ["Ali", "A."]
     url: https://scholar.google.com/citations?user=9rHwD8wAAAAJ&hl=en
+
+"zheng":
+  - firstname: ["Jinghao", "J."]
+    url: https://jinghaozheng.github.io/
