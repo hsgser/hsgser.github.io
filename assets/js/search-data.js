@@ -95,6 +95,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-beyond-semantic-entropy-boosting-llm-uncertainty-quantification-with-pairwise-semantic-similarity-is-accepted-to-acl-findings-2025",
           title: 'Our paper Beyond Semantic Entropy: Boosting LLM Uncertainty Quantification with Pairwise Semantic Similarity...',
           description: "",
+          section: "News",},{id: "news-i-have-officially-advanced-to-ph-d-candidacy-looking-forward-to-the-next-stage-of-my-research-journey",
+          title: 'I have officially advanced to Ph.D. candidacy! Looking forward to the next stage...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
