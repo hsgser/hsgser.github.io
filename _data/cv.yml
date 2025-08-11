@@ -22,7 +22,7 @@
       institution: Google Research, CA, USA
       description:
         - Working on synthetic data generation for LLMs and data selection for LVLMs.
-      year: 2024
+      year: 2024 - 2025
     - title: PhD Research Intern
       institution: Cisco Systems, CA, USA
       year: 2024
@@ -59,4 +59,4 @@
 - title: Professional Services
   type: list
   contents:
-    - Reviewer at NeurIPS (2022-2024) (Top reviewer), ICML (2023-2025), ICLR (2024-2025), AISTATS (2023-2025), AAAI (2025), AdvML@NeurIPS2024, SCSL@ICLR2025.
+    - Reviewer at NeurIPS (2022-2025) (Top reviewer), ICML (2023-2025), ICLR (2024-2025), AISTATS (2023-2025), AAAI (2025), AdvML@NeurIPS2024, SCSL@ICLR2025.
