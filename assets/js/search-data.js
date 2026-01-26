@@ -98,6 +98,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-officially-advanced-to-ph-d-candidacy-looking-forward-to-the-next-stage-of-my-research-journey",
           title: 'I have officially advanced to Ph.D. candidacy! Looking forward to the next stage...',
           description: "",
+          section: "News",},{id: "news-our-paper-do-we-need-all-the-synthetic-data-targeted-image-augmentation-via-diffusion-models-is-accepted-to-iclr-2026",
+          title: 'Our paper Do We Need All the Synthetic Data? Targeted Image Augmentation via...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
