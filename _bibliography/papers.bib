@@ -3,15 +3,16 @@
 
 @article{naharas2025data,
   bibtex_show={true},
-  abbr={arXiv},
+  abbr={ICLR Workshop},
   title={Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories},
   author={Naharas*, Nilay and Nguyen*, Dang and Bulut, Neslihan and Bateni, Mohammadhossein and Mirrokni, Vahab and Mirzasoleiman, Baharan},
   journal={arXiv preprint arXiv:2510.01454},
-  abstract={Data-efficient learning aims to eliminate redundancy in large training datasets by training models on smaller subsets of the most informative examples. While data selection has been extensively explored for vision models and large language models (LLMs), it remains underexplored for Large Vision-Language Models (LVLMs). Notably, none of existing methods can outperform random selection at different subset sizes. In this work, we propose the first principled method for data-efficient instruction tuning of LVLMs. We prove that examples with similar cross-modal attention matrices during instruction tuning have similar gradients. Thus, they influence model parameters in a similar manner and convey the same information to the model during training. Building on this insight, we propose XMAS, which clusters examples based on the trajectories of the top singular values of their attention matrices obtained from fine-tuning a small proxy LVLM. By sampling a balanced subset from these clusters, XMAS effectively removes redundancy in large-scale LVLM training data. Extensive experiments show that XMAS can discard 50% of the LLaVA-665k dataset and 85% of the Vision-Flan dataset while fully preserving performance of LLaVA-1.5-7B on 10 downstream benchmarks and speeding up its training by 1.2×. This is 30% more data reduction compared to the best baseline for LLaVA-665k.},
+  abstract={Data-efficient learning aims to eliminate redundancy in large training datasets by training models on smaller subsets of the most informative examples. While data selection has been extensively explored for vision models and large language models (LLMs), it remains underexplored for Large Vision-Language Models (LVLMs). Notably, none of existing methods can outperform random selection at different subset sizes. In this work, we propose the first principled method for data-efficient instruction tuning of LVLMs. We prove that examples with similar cross-modal attention matrices during instruction tuning have similar gradients. Thus, they influence model parameters in a similar manner and convey the same information to the model during training. Building on this insight, we propose XMAS, which clusters examples based on the trajectories of the top singular values of their attention matrices obtained from fine-tuning a small proxy LVLM. By sampling a balanced subset from these clusters, XMAS effectively removes redundancy in large-scale LVLM training data. Extensive experiments across 4 target models, 2 proxy models, and 2 datasets show that XMAS consistently outperforms 10 baseline methods. Moreover, XMAS can discard 50% of the LLaVA-665k dataset and 85% of the Vision-Flan dataset while fully preserving performance of LLaVA-1.5-7B on 10 downstream benchmarks and speeding up its training by 1.2×. This is 30% more data reduction compared to the best baseline for LLaVA-665k. The project’s website can be found at https://bigml-cs-ucla.github.io/XMAS-project-page/},
   code={https://github.com/BigML-CS-UCLA/XMAS},
   website={https://bigml-cs-ucla.github.io/XMAS-project-page/},
+  workshop={3rd Workshop on Navigating and Addressing Data Problems for Foundation Models at ICLR 2026},
   pdf={https://arxiv.org/pdf/2510.01454},
-  year={2025}
+  year={2026}
 }
 
 @article{nguyen2025we,
