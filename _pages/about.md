@@ -18,7 +18,7 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` directory
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi, I'm a CS Ph.D. candidate at UCLA under the supervision of Professor <a href="https://baharanm.github.io/">Baharan Mirzasoleiman</a>. My research focuses on data-centric methods for building efficient and reliable agentic AI systems based on large (vision-)language models. I develop techniques for **synthetic data generation** and **data selection** to construct high-quality training signals under limited or noisy data. More recently, I have explored reasoning and decision-making, including **test-time scaling**, **RL training**, **uncertainty-aware inference**, with the goal of enabling **reliable multi-step agent** behavior in high-stakes settings.

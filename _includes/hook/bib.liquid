@@ -1,0 +1,14 @@
+{%- comment -%}
+  Local override hook for bibliography entries (al_folio_core bib.liquid hook).
+  Renders two custom bibtex fields used in this site's papers.bib:
+    honor=    -> highlighted line (e.g. "Oral", "Spotlight", "Best Paper")
+    workshop= -> extra venue/workshop note, shown like a periodical line
+  These keys are also listed in _config.yml `filtered_bibtex_keywords` so they
+  do not leak into the copy-able BibTeX block.
+{%- endcomment -%}
+{%- if entry.honor -%}
+  <span class="honor" style="color: var(--global-theme-color); font-weight: bolder;">{{ entry.honor | strip }}</span>
+{%- endif -%}
+{%- if entry.workshop -%}
+  <div class="periodical">{{ entry.workshop | strip }}</div>
+{%- endif -%}

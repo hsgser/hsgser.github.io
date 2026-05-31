@@ -1,0 +1,50 @@
+# Google Scholar citation cache.
+# Auto-regenerated 3x/week by .github/workflows/update-citations.yml
+# (runs bin/update_scholar_citations.py). Seeded manually with current counts.
+metadata:
+  last_updated: "2026-05-31"
+papers:
+  "WIqAtrcAAAAJ:9yKSN-GCB0IC":
+    title: Improving mini-batch optimal transport via partial transportation
+    year: 2022
+    citations: 71
+  "WIqAtrcAAAAJ:UeHWp8X0CEIC":
+    title: On cross-layer alignment for model fusion of heterogeneous neural networks
+    year: 2023
+    citations: 36
+  "WIqAtrcAAAAJ:qjMakFHDy7sC":
+    title: "On transportation of mini-batches: A hierarchical approach"
+    year: 2022
+    citations: 23
+  "WIqAtrcAAAAJ:IjCSPb-OGe4C":
+    title: Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift
+    year: 2024
+    citations: 20
+  "WIqAtrcAAAAJ:YOwf2qJgpHMC":
+    title: "Beyond Semantic Entropy: Boosting LLM Uncertainty Quantification with Pairwise Semantic Similarity"
+    year: 2025
+    citations: 18
+  "WIqAtrcAAAAJ:W7OEmFMy1HYC":
+    title: Mini-batch Coresets for Memory-efficient Language Model Training on Data Mixtures
+    year: 2025
+    citations: 18
+  "WIqAtrcAAAAJ:2osOgNQ5qMEC":
+    title: Self-attention amortized distributional projection optimization for sliced Wasserstein point-cloud reconstruction
+    year: 2023
+    citations: 14
+  "WIqAtrcAAAAJ:5nxA0vEk-isC":
+    title: Synthetic text generation for training large language models via gradient matching
+    year: 2025
+    citations: 8
+  "WIqAtrcAAAAJ:zYLM7Y9cAGgC":
+    title: Changing the Training Data Distribution to Reduce Simplicity Bias Improves In-distribution Generalization
+    year: 2024
+    citations: 7
+  "WIqAtrcAAAAJ:ULOm3_A8WrAC":
+    title: Do We Need All the Synthetic Data? Towards Targeted Synthetic Image Augmentation via Diffusion Models
+    year: 2026
+    citations: 1
+  "WIqAtrcAAAAJ:L8Ckcad2t8MC":
+    title: Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories
+    year: 2026
+    citations: 0

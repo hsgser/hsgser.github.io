@@ -24,6 +24,10 @@
   journal={International Conference on Machine Learning (ICML)},
   workshop={3rd Workshop on Navigating and Addressing Data Problems for Foundation Models at ICLR 2026},
   pdf={https://arxiv.org/pdf/2510.01454},
+  arxiv={2510.01454},
+  altmetric={true},
+  google_scholar_id={L8Ckcad2t8MC},
+  preview={xmas_figure.png},
   year={2026}
 }
 
@@ -35,6 +39,10 @@
   journal={arXiv preprint arXiv:2505.21574},
   abstract={Synthetically augmenting training datasets with diffusion models has become an effective strategy for improving the generalization of image classifiers. However, existing approaches typically increase dataset size by 10–30× and struggle to ensure generation diversity, leading to substantial computational overhead. In this work, we introduce TADA (TArgeted Diffusion Augmentation), a principled framework that selectively augments examples that are not learned early in training using faithful synthetic images that preserve semantic features while varying noise. We show that augmenting only this targeted subset consistently outperforms augmenting the entire dataset. Through theoretical analysis on a two-layer CNN, we prove that TADA improves generalization by promoting homogeneity in feature learning speed without amplifying noise. Extensive experiments demonstrate that by augmenting only 30–40% of the training data, TADA improves generalization by up to 2.8% across diverse architectures including ResNet, ViT, ConvNeXt, and Swin Transformer on CIFAR-10/100, TinyImageNet, and ImageNet, using optimizers such as SGD and SAM. Notably, TADA combined with SGD outperforms the state-of-the-art optimizer SAM on CIFAR-100 and TinyImageNet. Furthermore, TADA shows promising improvements on object detection benchmarks, demonstrating its applicability beyond image classification. Our code is available at https://github.com/BigML-CS-UCLA/TADA.},
   pdf={https://arxiv.org/pdf/2505.21574},
+  arxiv={2505.21574},
+  altmetric={true},
+  google_scholar_id={ULOm3_A8WrAC},
+  preview={clustering_cifar10_with_synthetic.png},
   code={https://github.com/BigML-CS-UCLA/TADA},
   year={2026}
 }
@@ -48,6 +56,9 @@
   abstract={Hallucination in large language models (LLMs) can be detected by assessing the uncertainty of model outputs, typically measured using entropy. Semantic entropy (SE) enhances traditional entropy estimation by quantifying uncertainty at the semantic cluster level. However, as modern LLMs generate longer one-sentence responses, SE becomes less effective because it overlooks two crucial factors: intra-cluster similarity (the spread within a cluster) and inter-cluster similarity (the distance between clusters). To address these limitations, we propose a simple black-box uncertainty quantification method inspired by nearest neighbor estimates of entropy. Our approach can also be easily extended to white-box settings by incorporating token probabilities. Additionally, we provide theoretical results showing that our method generalizes semantic entropy. Extensive empirical results demonstrate its effectiveness compared to semantic entropy across two recent LLMs (Phi3 and Llama3) and three common text generation tasks: question answering, text summarization, and machine translation. Our code is available at https://github.com/BigML-CS-UCLA/SNNE.},
   code={https://github.com/BigML-CS-UCLA/SNNE},
   pdf={https://arxiv.org/pdf/2506.00245},
+  arxiv={2506.00245},
+  altmetric={true},
+  google_scholar_id={YOwf2qJgpHMC},
   year={2025}
 }
 
@@ -59,6 +70,9 @@
   journal={International Conference on Machine Learning (ICML)},
   abstract={Synthetic data has the potential to improve the performance, training efficiency, and privacy of real training examples. Nevertheless, existing approaches for synthetic text generation are mostly heuristics and cannot generate human-readable text without compromising the privacy of real data or provide performance guarantees for training Large Language Models (LLMs). In this work, we propose the first theoretically rigorous approach for generating synthetic human-readable text that guarantees the convergence and performance of LLMs during fine-tuning on a target task. To do so, we leverage Alternating Direction Method of Multipliers (ADMM) that iteratively optimizes the embeddings of synthetic examples to match the gradient of the target training or validation data, and maps them to a sequence of text tokens with low perplexity. In doing so, the generated synthetic text can guarantee convergence of the model to a close neighborhood of the solution obtained by fine-tuning on real data. Experiments on various classification tasks confirm the effectiveness of our proposed approach. Our code is available at https://github.com/BigML-CS-UCLA/GRADMM.},
   pdf={https://arxiv.org/pdf/2502.17607},
+  arxiv={2502.17607},
+  altmetric={true},
+  google_scholar_id={5nxA0vEk-isC},
   code={https://github.com/BigML-CS-UCLA/GRADMM},
   year={2025}
 }
@@ -71,6 +85,9 @@
   abstract={Training with larger mini-batches improves the convergence rate and can yield superior performance. However, training with large mini-batches becomes prohibitive for Large Language Models (LLMs), due to the large GPU memory requirement. To address this problem, an effective approach is finding small mini-batch coresets that closely match the gradient of larger mini-batches. However, this approach becomes infeasible and ineffective for LLMs, due to the highly imbalanced mixture of sources in language data, use of the Adam optimizer, and the very large gradient dimensionality of LLMs. In this work, we address the above challenges by proposing Coresets for Training LLMs (CoLM). First, we show that mini-batch coresets found by gradient matching do not contain representative examples of the small sources w.h.p., and thus including all examples of the small sources in the mini-batch coresets is crucial for optimal performance. Second, we normalize the gradients by their historical exponential to find mini-batch coresets for training with Adam. Finally, we leverage zeroth-order methods to find smooth gradient of the last V-projection matrix and sparsify it to keep the dimensions with the largest normalized gradient magnitude. We apply CoLM to fine-tuning Phi-2, Phi-3, Zephyr, and Llama-3 models with LoRA on MathInstruct and SuperGLUE benchmark. Remarkably, CoLM reduces the memory requirement of fine-tuning by 2x and even outperforms training with 4x larger mini-batches. Moreover, CoLM seamlessly integrates with existing memory-efficient training methods like LoRA, further reducing the memory requirements of training LLMs. Our code is available at https://github.com/BigML-CS-UCLA/CoLM.},
   journal={International Conference on Learning Representations (ICLR)},
   pdf={https://arxiv.org/pdf/2407.19580},
+  arxiv={2407.19580},
+  altmetric={true},
+  google_scholar_id={W7OEmFMy1HYC},
   code={https://github.com/BigML-CS-UCLA/CoLM},
   year={2025}
 }
@@ -84,6 +101,9 @@
   journal={Advances in Neural Information Processing Systems},
   code={https://github.com/BigML-CS-UCLA/TADA},
   pdf={https://arxiv.org/pdf/2404.17768},
+  arxiv={2404.17768},
+  altmetric={true},
+  google_scholar_id={zYLM7Y9cAGgC},
   year={2024}
 }
 
@@ -96,6 +116,9 @@
   journal={International Conference on Learning Representations (ICLR)},
   workshop={Data-centric Machine Learning Research (DMLR) Workshop at ICLR 2024},
   pdf={https://arxiv.org/pdf/2310.04971.pdf},
+  arxiv={2310.04971},
+  altmetric={true},
+  google_scholar_id={IjCSPb-OGe4C},
   year={2024},
   selected={true},
 }
@@ -111,6 +134,8 @@
   url={https://proceedings.mlr.press/v202/nguyen23e.html},
   selected={true},
   code={https://github.com/hsgser/Self-Amortized-DSW},
+  preview={reconstruction_qualitative.jpg},
+  google_scholar_id={2osOgNQ5qMEC},
   abstract={Max sliced Wasserstein (Max-SW) distance has been widely known as a solution for less discriminative projections of sliced Wasserstein (SW) distance. In applications that have various independent pairs of probability measures, amortized projection optimization is utilized to predict the “max" projecting directions given two input measures instead of using projected gradient ascent multiple times. Despite being efficient, Max-SW and its amortized version cannot guarantee metricity property due to the sub-optimality of the projected gradient ascent and the amortization gap. Therefore, we propose to replace Max-SW with distributional sliced Wasserstein distance with von Mises-Fisher (vMF) projecting distribution (v-DSW). Since v-DSW is a metric with any non-degenerate vMF distribution, its amortized version can guarantee the metricity when performing amortization. Furthermore, current amortized models are not permutation invariant and symmetric. To address the issue, we design amortized models based on self-attention architecture. In particular, we adopt efficient self-attention architectures to make the computation linear in the number of supports. With the two improvements, we derive self-attention amortized distributional projection optimization and show its appealing performance in point-cloud reconstruction and its downstream applications}
 }
 
@@ -125,6 +150,9 @@
   published={true},
   selected={false},
   pdf={https://arxiv.org/pdf/2110.15538.pdf},
+  arxiv={2110.15538},
+  altmetric={true},
+  google_scholar_id={UeHWp8X0CEIC},
   code={https://github.com/hsgser/clafusion},
   abstract={Layer-wise model fusion via optimal transport, named OTFusion, applies soft neuron association for unifying different pre-trained networks to save computational resources. While enjoying its success, OTFusion requires the input networks to have the same number of layers. To address this issue, we propose a novel model fusion framework, named CLAFusion, to fuse neural networks with a different number of layers, which we refer to as heterogeneous neural networks, via cross-layer alignment. The cross-layer alignment problem, which is an unbalanced assignment problem, can be solved efficiently using dynamic programming. Based on the cross-layer alignment, our framework balances the number of layers of neural networks before applying layer-wise model fusion. Our experiments indicate that CLAFusion, with an extra finetuning process, improves the accuracy of residual networks on the CIFAR10, CIFAR100, and Tiny-ImageNet datasets. Furthermore, we explore its practical usage for model compression and knowledge distillation when applying to the teacher-student setting.}
 }
@@ -137,6 +165,8 @@
   journal={International Conference on Machine Learning (ICML)},
   year={2022},
   pdf={https://proceedings.mlr.press/v162/nguyen22e/nguyen22e.pdf},
+  google_scholar_id={9yKSN-GCB0IC},
+  preview={POT-TwoStag.png},
   url={https://proceedings.mlr.press/v162/nguyen22e.html},
   selected={true},
   code={https://github.com/UT-Austin-Data-Science-Group/Mini-batch-OT},
@@ -151,6 +181,8 @@
   journal={International Conference on Machine Learning (ICML)},
   year={2022},
   pdf={https://proceedings.mlr.press/v162/nguyen22d/nguyen22d.pdf},
+  google_scholar_id={qjMakFHDy7sC},
+  preview={color_transfer.png},
   url={https://proceedings.mlr.press/v162/nguyen22d.html},
   selected={true},
   code={https://github.com/UT-Austin-Data-Science-Group/Mini-batch-OT},
