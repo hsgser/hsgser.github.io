@@ -104,6 +104,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-data-selection-for-fine-tuning-vision-language-models-via-cross-modal-alignment-trajectories-is-accepted-to-icml-2026",
           title: 'Our paper Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment...',
           description: "",
+          section: "News",},{id: "news-our-paper-why-is-a-b-better-than-b-a-simple-graph-perspective-on-task-transfer-is-accepted-to-the-fogen-workshop-at-icml-2026",
+          title: 'Our paper Why is A+B Better Than B? A Simple Graph Perspective on...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
