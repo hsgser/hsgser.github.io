@@ -26,6 +26,15 @@ cv:
           - Toyo Top Global Scholarship A
 
     Experience:
+      - company: Adobe
+        position: Applied Scientist Intern
+        location: CA, USA
+        start_date: 2026
+        end_date: 2026
+        highlights:
+          - "Supervisors: Shubham Lohiya, Sizhe Zhou, Dr. Anay Majee, Dr. Sajjadur Rahman"
+          - "Topic: Enterprise Agent Harness"
+
       - company: Google Research
         position: Student Researcher
         location: CA, USA
