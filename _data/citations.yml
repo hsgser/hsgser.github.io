@@ -2,7 +2,7 @@
 # Auto-regenerated 3x/week by .github/workflows/update-citations.yml
 # (runs bin/update_scholar_citations.py). Seeded manually with current counts.
 metadata:
-  last_updated: "2026-05-31"
+  last_updated: "2026-07-02"
 papers:
   "WIqAtrcAAAAJ:9yKSN-GCB0IC":
     title: Improving mini-batch optimal transport via partial transportation
@@ -15,19 +15,19 @@ papers:
   "WIqAtrcAAAAJ:qjMakFHDy7sC":
     title: "On transportation of mini-batches: A hierarchical approach"
     year: 2022
-    citations: 23
+    citations: 24
   "WIqAtrcAAAAJ:IjCSPb-OGe4C":
     title: Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift
     year: 2024
-    citations: 20
+    citations: 21
   "WIqAtrcAAAAJ:YOwf2qJgpHMC":
     title: "Beyond Semantic Entropy: Boosting LLM Uncertainty Quantification with Pairwise Semantic Similarity"
     year: 2025
-    citations: 18
+    citations: 28
   "WIqAtrcAAAAJ:W7OEmFMy1HYC":
     title: Mini-batch Coresets for Memory-efficient Language Model Training on Data Mixtures
     year: 2025
-    citations: 18
+    citations: 22
   "WIqAtrcAAAAJ:2osOgNQ5qMEC":
     title: Self-attention amortized distributional projection optimization for sliced Wasserstein point-cloud reconstruction
     year: 2023
@@ -39,12 +39,16 @@ papers:
   "WIqAtrcAAAAJ:zYLM7Y9cAGgC":
     title: Changing the Training Data Distribution to Reduce Simplicity Bias Improves In-distribution Generalization
     year: 2024
-    citations: 7
+    citations: 8
   "WIqAtrcAAAAJ:ULOm3_A8WrAC":
     title: Do We Need All the Synthetic Data? Towards Targeted Synthetic Image Augmentation via Diffusion Models
     year: 2026
     citations: 1
   "WIqAtrcAAAAJ:L8Ckcad2t8MC":
     title: Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories
+    year: 2026
+    citations: 0
+  "WIqAtrcAAAAJ:r0BpntZqJG4C":
+    title: "Why is A+B Better Than B? A Simple Graph Perspective on Task Transfer"
     year: 2026
     citations: 0
