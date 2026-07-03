@@ -14,9 +14,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      # See docs/CUSTOMIZE.md for details on how to set up PAT for triggering subsequent workflows
-      #        with:
-      #          token: ${{ secrets.PAT }}
+        # PAT (secret PAT) authenticates as the repo owner so the push bypasses
+        # branch protection on main and can trigger the deploy workflow.
+        # See docs/CUSTOMIZE.md for details.
+        with:
+          token: ${{ secrets.PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
