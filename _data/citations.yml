@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-08-07'
 papers:
   WIqAtrcAAAAJ:2osOgNQ5qMEC:
-    citations: 14
+    citations: 15
     title: Self-attention amortized distributional projection optimization for sliced Wasserstein point-cloud reconstruction
     year: '2023'
   WIqAtrcAAAAJ:5nxA0vEk-isC:
-    citations: 8
+    citations: 6
     title: Synthetic text generation for training large language models via gradient matching
     year: '2025'
   WIqAtrcAAAAJ:9yKSN-GCB0IC:
-    citations: 73
+    citations: 74
     title: Improving mini-batch optimal transport via partial transportation
     year: '2022'
   WIqAtrcAAAAJ:IjCSPb-OGe4C:
@@ -18,19 +18,19 @@ papers:
     title: Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift
     year: '2023'
   WIqAtrcAAAAJ:L8Ckcad2t8MC:
-    citations: 1
+    citations: 2
     title: Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories
     year: '2025'
   WIqAtrcAAAAJ:ULOm3_A8WrAC:
-    citations: 1
+    citations: 2
     title: Do We Need All the Synthetic Data? Towards Targeted Synthetic Image Augmentation via Diffusion Models
     year: '2025'
   WIqAtrcAAAAJ:UeHWp8X0CEIC:
-    citations: 36
+    citations: 35
     title: On cross-layer alignment for model fusion of heterogeneous neural networks
     year: '2023'
   WIqAtrcAAAAJ:W7OEmFMy1HYC:
-    citations: 22
+    citations: 21
     title: Mini-batch Coresets for Memory-efficient Language Model Training on Data Mixtures
     year: '2024'
   WIqAtrcAAAAJ:YOwf2qJgpHMC:
@@ -38,14 +38,14 @@ papers:
     title: 'Beyond Semantic Entropy: Boosting LLM Uncertainty Quantification with Pairwise Semantic Similarity'
     year: '2025'
   WIqAtrcAAAAJ:qjMakFHDy7sC:
-    citations: 24
+    citations: 23
     title: 'On transportation of mini-batches: A hierarchical approach'
     year: '2021'
   WIqAtrcAAAAJ:r0BpntZqJG4C:
     citations: 0
     title: Why is A+ B Better Than B? A Simple Graph Perspective on Task Transfer
-    year: Unknown Year
+    year: '2026'
   WIqAtrcAAAAJ:zYLM7Y9cAGgC:
-    citations: 8
+    citations: 7
     title: Changing the Training Data Distribution to Reduce Simplicity Bias Improves In-distribution Generalization
     year: '2024'
