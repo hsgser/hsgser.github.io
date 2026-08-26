@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-26'
 papers:
   WIqAtrcAAAAJ:2osOgNQ5qMEC:
     citations: 15
@@ -10,7 +10,7 @@ papers:
     title: Synthetic text generation for training large language models via gradient matching
     year: '2025'
   WIqAtrcAAAAJ:9yKSN-GCB0IC:
-    citations: 74
+    citations: 75
     title: Improving mini-batch optimal transport via partial transportation
     year: '2022'
   WIqAtrcAAAAJ:IjCSPb-OGe4C:
@@ -18,7 +18,7 @@ papers:
     title: Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift
     year: '2023'
   WIqAtrcAAAAJ:L8Ckcad2t8MC:
-    citations: 2
+    citations: 4
     title: Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories
     year: '2025'
   WIqAtrcAAAAJ:ULOm3_A8WrAC:
@@ -26,7 +26,7 @@ papers:
     title: Do We Need All the Synthetic Data? Towards Targeted Synthetic Image Augmentation via Diffusion Models
     year: '2025'
   WIqAtrcAAAAJ:UeHWp8X0CEIC:
-    citations: 35
+    citations: 37
     title: On cross-layer alignment for model fusion of heterogeneous neural networks
     year: '2023'
   WIqAtrcAAAAJ:W7OEmFMy1HYC:
@@ -34,11 +34,11 @@ papers:
     title: Mini-batch Coresets for Memory-efficient Language Model Training on Data Mixtures
     year: '2024'
   WIqAtrcAAAAJ:YOwf2qJgpHMC:
-    citations: 31
+    citations: 32
     title: 'Beyond Semantic Entropy: Boosting LLM Uncertainty Quantification with Pairwise Semantic Similarity'
     year: '2025'
   WIqAtrcAAAAJ:qjMakFHDy7sC:
-    citations: 23
+    citations: 24
     title: 'On transportation of mini-batches: A hierarchical approach'
     year: '2021'
   WIqAtrcAAAAJ:r0BpntZqJG4C:
