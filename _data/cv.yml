@@ -32,8 +32,12 @@ cv:
         start_date: 2026
         end_date: 2026
         highlights:
-          - "Supervisors: Shubham Lohiya, Sizhe Zhou, Dr. Anay Majee, Dr. Sajjadur Rahman"
-          - "Topic: Enterprise Agent Harness"
+          - "Supervisors: Shubham Lohiya, Sizhe Zhou, Dr. Anay Majee"
+          - "Manager: Dr. Sajjadur Rahman"
+          - "Topic: Configurable Safety and Governance for Autonomous Agentic Systems"
+          - "Designed a runtime agent safety and governance system detecting intent–action mismatches, tool-result prompt injection, and dangerous cross-tool chains, achieving 99.3% recall / 96.2% precision on 1k+ production approval requests and cutting human approval prompts by 95.5%."
+          - "Built a synthetic adversarial dataset generation and evaluation framework to surface agent safety failure modes and enable systematic regression testing."
+          - "Integrated the system into Adobe Experience Platform for configurable runtime governance of autonomous enterprise agents."
 
       - company: Google Research
         position: Student Researcher
