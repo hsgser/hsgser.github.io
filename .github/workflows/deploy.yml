@@ -64,6 +64,8 @@ jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
+    # Fail fast if a network step (apt/pip) stalls instead of hanging for 6 hours.
+    timeout-minutes: 15
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
