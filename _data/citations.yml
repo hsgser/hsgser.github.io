@@ -1,42 +1,42 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-10-07'
 papers:
   WIqAtrcAAAAJ:2osOgNQ5qMEC:
     citations: 16
     title: Self-attention amortized distributional projection optimization for sliced Wasserstein point-cloud reconstruction
     year: '2023'
   WIqAtrcAAAAJ:5nxA0vEk-isC:
-    citations: 6
+    citations: 10
     title: Synthetic text generation for training large language models via gradient matching
     year: '2025'
   WIqAtrcAAAAJ:9yKSN-GCB0IC:
-    citations: 75
+    citations: 77
     title: Improving mini-batch optimal transport via partial transportation
     year: '2022'
   WIqAtrcAAAAJ:IjCSPb-OGe4C:
-    citations: 21
+    citations: 22
     title: Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift
     year: '2023'
   WIqAtrcAAAAJ:L8Ckcad2t8MC:
     citations: 4
     title: Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories
     year: '2025'
-  WIqAtrcAAAAJ:ULOm3_A8WrAC:
-    citations: 2
-    title: Do We Need All the Synthetic Data? Towards Targeted Synthetic Image Augmentation via Diffusion Models
-    year: '2025'
   WIqAtrcAAAAJ:UeHWp8X0CEIC:
-    citations: 37
+    citations: 39
     title: On cross-layer alignment for model fusion of heterogeneous neural networks
     year: '2023'
   WIqAtrcAAAAJ:W7OEmFMy1HYC:
-    citations: 21
+    citations: 24
     title: Mini-batch Coresets for Memory-efficient Language Model Training on Data Mixtures
     year: '2024'
   WIqAtrcAAAAJ:YOwf2qJgpHMC:
-    citations: 35
+    citations: 43
     title: 'Beyond Semantic Entropy: Boosting LLM Uncertainty Quantification with Pairwise Semantic Similarity'
     year: '2025'
+  WIqAtrcAAAAJ:iH-uZ7U-co4C:
+    citations: 5
+    title: Do we need all the synthetic data? targeted image augmentation via diffusion models
+    year: '2026'
   WIqAtrcAAAAJ:qjMakFHDy7sC:
     citations: 24
     title: 'On transportation of mini-batches: A hierarchical approach'

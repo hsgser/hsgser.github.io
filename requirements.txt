@@ -2,3 +2,5 @@ nbconvert
 pyyaml
 rendercv[full]
 scholarly
+# scholarly imports bibtexparser.bibdatabase, which was removed in bibtexparser 2.x
+bibtexparser<2
