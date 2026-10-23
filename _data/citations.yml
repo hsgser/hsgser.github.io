@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-10-14'
+  last_updated: '2026-10-23'
 papers:
   WIqAtrcAAAAJ:2osOgNQ5qMEC:
     citations: 17
     title: Self-attention amortized distributional projection optimization for sliced Wasserstein point-cloud reconstruction
     year: '2023'
   WIqAtrcAAAAJ:5nxA0vEk-isC:
-    citations: 12
+    citations: 14
     title: Synthetic text generation for training large language models via gradient matching
     year: '2025'
   WIqAtrcAAAAJ:9yKSN-GCB0IC:
-    citations: 77
+    citations: 78
     title: Improving mini-batch optimal transport via partial transportation
     year: '2022'
   WIqAtrcAAAAJ:IjCSPb-OGe4C:
@@ -30,7 +30,7 @@ papers:
     title: Mini-batch Coresets for Memory-efficient Language Model Training on Data Mixtures
     year: '2024'
   WIqAtrcAAAAJ:YOwf2qJgpHMC:
-    citations: 45
+    citations: 48
     title: 'Beyond Semantic Entropy: Boosting LLM Uncertainty Quantification with Pairwise Semantic Similarity'
     year: '2025'
   WIqAtrcAAAAJ:iH-uZ7U-co4C:
@@ -38,7 +38,7 @@ papers:
     title: Do we need all the synthetic data? targeted image augmentation via diffusion models
     year: '2026'
   WIqAtrcAAAAJ:qjMakFHDy7sC:
-    citations: 24
+    citations: 25
     title: 'On transportation of mini-batches: A hierarchical approach'
     year: '2021'
   WIqAtrcAAAAJ:r0BpntZqJG4C:
