@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-10-23'
+  last_updated: '2026-10-26'
 papers:
   WIqAtrcAAAAJ:2osOgNQ5qMEC:
     citations: 17
@@ -18,7 +18,7 @@ papers:
     title: Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift
     year: '2023'
   WIqAtrcAAAAJ:L8Ckcad2t8MC:
-    citations: 4
+    citations: 5
     title: Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories
     year: '2025'
   WIqAtrcAAAAJ:UeHWp8X0CEIC:
@@ -30,7 +30,7 @@ papers:
     title: Mini-batch Coresets for Memory-efficient Language Model Training on Data Mixtures
     year: '2024'
   WIqAtrcAAAAJ:YOwf2qJgpHMC:
-    citations: 48
+    citations: 50
     title: 'Beyond Semantic Entropy: Boosting LLM Uncertainty Quantification with Pairwise Semantic Similarity'
     year: '2025'
   WIqAtrcAAAAJ:iH-uZ7U-co4C:
