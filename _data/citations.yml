@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-10-30'
+  last_updated: '2026-11-04'
 papers:
   WIqAtrcAAAAJ:2osOgNQ5qMEC:
     citations: 17
@@ -30,12 +30,12 @@ papers:
     title: Mini-batch Coresets for Memory-efficient Language Model Training on Data Mixtures
     year: '2024'
   WIqAtrcAAAAJ:YOwf2qJgpHMC:
-    citations: 52
+    citations: 53
     title: 'Beyond Semantic Entropy: Boosting LLM Uncertainty Quantification with Pairwise Semantic Similarity'
     year: '2025'
   WIqAtrcAAAAJ:iH-uZ7U-co4C:
-    citations: 5
-    title: Do we need all the synthetic data? targeted image augmentation via diffusion models
+    citations: 6
+    title: Do we need all the synthetic data? Targeted image augmentation via diffusion models
     year: '2026'
   WIqAtrcAAAAJ:qjMakFHDy7sC:
     citations: 25
