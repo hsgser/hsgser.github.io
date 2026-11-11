@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-11-04'
+  last_updated: '2026-11-11'
 papers:
   WIqAtrcAAAAJ:2osOgNQ5qMEC:
     citations: 17
     title: Self-attention amortized distributional projection optimization for sliced Wasserstein point-cloud reconstruction
     year: '2023'
   WIqAtrcAAAAJ:5nxA0vEk-isC:
-    citations: 14
+    citations: 15
     title: Synthetic text generation for training large language models via gradient matching
     year: '2025'
   WIqAtrcAAAAJ:9yKSN-GCB0IC:
@@ -22,11 +22,11 @@ papers:
     title: Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories
     year: '2025'
   WIqAtrcAAAAJ:UeHWp8X0CEIC:
-    citations: 39
+    citations: 40
     title: On cross-layer alignment for model fusion of heterogeneous neural networks
     year: '2023'
   WIqAtrcAAAAJ:W7OEmFMy1HYC:
-    citations: 24
+    citations: 25
     title: Mini-batch Coresets for Memory-efficient Language Model Training on Data Mixtures
     year: '2024'
   WIqAtrcAAAAJ:YOwf2qJgpHMC:
