@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-11-11'
+  last_updated: '2026-11-16'
 papers:
   WIqAtrcAAAAJ:2osOgNQ5qMEC:
     citations: 17
@@ -18,11 +18,11 @@ papers:
     title: Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift
     year: '2023'
   WIqAtrcAAAAJ:L8Ckcad2t8MC:
-    citations: 5
+    citations: 6
     title: Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories
     year: '2025'
   WIqAtrcAAAAJ:UeHWp8X0CEIC:
-    citations: 40
+    citations: 41
     title: On cross-layer alignment for model fusion of heterogeneous neural networks
     year: '2023'
   WIqAtrcAAAAJ:W7OEmFMy1HYC:
